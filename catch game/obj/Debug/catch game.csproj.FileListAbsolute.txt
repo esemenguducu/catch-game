@@ -1,0 +1,11 @@
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch game.csproj.AssemblyReference.cache
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch_game.Form1.resources
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch_game.Properties.Resources.resources
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch game.csproj.GenerateResource.cache
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch game.csproj.CoreCompileInputs.cache
+C:\Users\Eşemen\source\repos\catch game\catch game\bin\Debug\catch game.exe.config
+C:\Users\Eşemen\source\repos\catch game\catch game\bin\Debug\catch game.exe
+C:\Users\Eşemen\source\repos\catch game\catch game\bin\Debug\catch game.pdb
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch game.exe
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch game.pdb
+C:\Users\Eşemen\source\repos\catch game\catch game\obj\Debug\catch_game.catch_game.resources
